@@ -7,18 +7,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="eureka-server" />
+        <module name="employee-producer-eureka" />
+        <module name="employee-consumer-eureka" />
         <module name="employee-consumer" />
         <module name="employee-producer" />
-        <module name="employee-producer (1)" />
-        <module name="employee-consumer (1)" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="employee-consumer" target="11" />
       <module name="employee-consumer (1)" target="11" />
       <module name="employee-consumer (1) (com.javainuse)" target="11" />
+      <module name="employee-consumer-eureka" target="11" />
       <module name="employee-producer" target="11" />
       <module name="employee-producer (1)" target="11" />
+      <module name="employee-producer-eureka" target="11" />
       <module name="eureka-server" target="11" />
     </bytecodeTargetLevel>
   </component>
@@ -27,8 +29,10 @@
       <module name="employee-consumer" options="-parameters" />
       <module name="employee-consumer (1)" options="-parameters" />
       <module name="employee-consumer (1) (com.javainuse)" options="-parameters" />
+      <module name="employee-consumer-eureka" options="-parameters" />
       <module name="employee-producer" options="-parameters" />
       <module name="employee-producer (1)" options="-parameters" />
+      <module name="employee-producer-eureka" options="-parameters" />
       <module name="eureka-server" options="-parameters" />
     </option>
   </component>
