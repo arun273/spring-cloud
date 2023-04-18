@@ -1,4 +1,4 @@
-package com.howtodoinjava.example.apigateway.controller;
+package com.training.example.apigateway.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;

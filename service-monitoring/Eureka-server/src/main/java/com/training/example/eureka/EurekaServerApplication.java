@@ -1,4 +1,4 @@
-package com.howtodoinjava.example.eureka;
+package com.training.example.eureka;
 
 import de.codecentric.boot.admin.server.config.EnableAdminServer;
 import org.springframework.boot.SpringApplication;

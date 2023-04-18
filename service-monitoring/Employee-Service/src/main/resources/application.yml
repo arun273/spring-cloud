@@ -19,8 +19,4 @@ spring:
      
 management:
   security:
-    enabled: false  
- 
-logging:
-  level:
-    com.self.sprintboot.learning.employee: DEBUG
+    enabled: false

@@ -1,4 +1,4 @@
-package com.howtodoinjava.example.employee.beans;
+package com.training.example.employee.beans;
 
 public class Employee {
 
