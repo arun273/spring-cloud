@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44026acd-0473-49b8-b256-2b400fd1336b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Api-Gateway/src/main/java/com/howtodoinjava/example/apigateway/ApiGatewayApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Api-Gateway/src/main/java/com/training/example/apigateway/ApiGatewayApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Api-Gateway/src/main/java/com/howtodoinjava/example/apigateway/controller/EmployeeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Api-Gateway/src/main/java/com/training/example/apigateway/controller/EmployeeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Api-Gateway/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Api-Gateway/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Employee-Service/src/main/java/com/howtodoinjava/example/employee/EmployeeServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Service/src/main/java/com/training/example/employee/EmployeeServiceApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Employee-Service/src/main/java/com/howtodoinjava/example/employee/beans/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Service/src/main/java/com/training/example/employee/beans/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Employee-Service/src/main/java/com/howtodoinjava/example/employee/controller/EmployeeServiceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Service/src/main/java/com/training/example/employee/controller/EmployeeServiceController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Employee-Service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/Employee-Service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Eureka-server/src/main/java/com/howtodoinjava/example/eureka/EurekaServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Eureka-server/src/main/java/com/training/example/eureka/EurekaServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../spring-boot-ribbon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-boot-ribbon/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="44026acd-0473-49b8-b256-2b400fd1336b" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
