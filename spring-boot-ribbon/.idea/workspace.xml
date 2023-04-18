@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1d0e3e7-595f-4d18-9bee-7e043d14f272" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ribbon-eureka/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ribbon-eureka/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ribbon-eureka/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ribbon-eureka/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ribbon-eureka/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ribbon-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ribbon-client/ribbon-client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ribbon-client/src/main/java/com/example/ribbonclient/MyClientSideController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ribbon-client/src/main/java/com/example/ribbonclient/RibbonClientApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ribbon-client/src/main/java/com/example/ribbonclient/RibbonConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ribbon-client/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ribbon-eureka-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ribbon-eureka-server/ribbon-eureka-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ribbon-eureka-server/src/main/java/com/example/ribboneurekaserver/RibbonEurekaServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ribbon-eureka-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ribbon-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ribbon-server/ribbon-server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ribbon-server/src/main/java/com/example/ribbonserver/MyRestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ribbon-server/src/main/java/com/example/ribbonserver/RibbonServerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ribbon-server/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-ribbon.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../discovery-server/spring-eureka-client-school-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../discovery-server/spring-eureka-client-school-service/src/main/resources/application.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2OZ3QfqxfF6I1xOXpGFNFHalxVU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ribbon-eureka" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.RibbonClientApplication">
+    <configuration name="RibbonClientApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ribbonclient.RibbonClientApplication" />
+      <module name="ribbon-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.ribbonclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RibbonEurekaServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ribboneurekaserver.RibbonEurekaServerApplication" />
+      <module name="ribbon-eureka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.ribboneurekaserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RibbonServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ribbonserver.RibbonServerApplication" />
+      <module name="ribbon-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.ribbonserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.RibbonClientApplication" />
+      <item itemvalue="Application.RibbonEurekaServerApplication" />
+      <item itemvalue="Application.RibbonServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RibbonClientApplication" />
+        <item itemvalue="Application.RibbonServerApplication" />
+        <item itemvalue="Application.RibbonEurekaServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1d0e3e7-595f-4d18-9bee-7e043d14f272" name="Default Changelist" comment="" />
+      <created>1681754262243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681754262243</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
